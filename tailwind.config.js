@@ -6,6 +6,13 @@ export default {
       fontFamily: {
         primary: ["Sono"],
       },
+      backgroundColor: {
+        darkBrown: "#45171d",
+        lightBrown: "#6b242d",
+        lightGrey: "#889daf",
+        darkGrey: "#6a849a",
+        black: "#1f0a0d",
+      },
     },
   },
   plugins: [],
